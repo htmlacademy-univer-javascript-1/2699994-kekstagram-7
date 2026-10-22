@@ -1,3 +1,4 @@
+// Вычичление времени module5-task1
 const parseTimeToMinute = function(time) {
   time = time.split(':');
   const hours = parseInt(time[0], 10);
